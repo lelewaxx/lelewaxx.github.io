@@ -1,6 +1,6 @@
 
 
-[![senli1073](https://img.shields.io/badge/senli1073-github-blue?logo=github)](https://github.com/senli1073)
+[![lelewaxx](https://img.shields.io/badge/lelewaxx-github-blue?logo=github)](https://github.com/lelewaxx)
 
 She is currently pursuing a Bachelor's Degree in Data Science, at Department of Statistics and Datascience,Southern University of Science and Technology, China.
 
