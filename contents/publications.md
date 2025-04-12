@@ -1,2 +1,3 @@
 -Updating...
 
+-[点击查看报告 PDF](../assets/files/report.pdf)
