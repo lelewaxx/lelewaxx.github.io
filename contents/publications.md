@@ -1,3 +1,3 @@
 -Updating...
 
--[点击查看报告 PDF](../static/assets/report.pdf)
+-[点击查看报告 PDF](static/assets/report.pdf)
